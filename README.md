@@ -1,5 +1,3 @@
-# azure-security-labs
-Hands-on Azure and cloud security labs
 # ☁️ Azure Security Labs
 
 Hands-on notes and labs from my path to Azure Cloud Security Engineer.
